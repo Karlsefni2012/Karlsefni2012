@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm a developer for the [Xyce](https://github.com/Xyce) circuit simulator project, whose GitHub project is at [Xyce](https://github.com/Xyce).
 
 <!--
 **Karlsefni2012/Karlsefni2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
