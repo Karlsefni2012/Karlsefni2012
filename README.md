@@ -1,6 +1,6 @@
 **Eric Keiter**
 
-![Eric Keiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karlsefni2012&show_icons=true)
+![Eric Keiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karlsefni2012&show_icons=true&theme=vue)
 
 
 I'm a developer for the [Xyce](https://github.com/Xyce) circuit simulator project, whose GitHub project is at [Xyce](https://github.com/Xyce).
